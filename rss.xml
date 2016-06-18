@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tara]]></title>
-        <description><![CDATA[Tara]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tara Blogs]]></title>
+        <description><![CDATA[Tara Blogs]]></description>
+        <link>https://thegrid.ai/tara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 23:30:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 23:43:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tara/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco Design Week 2016]]></title>
+            <description><![CDATA[<article><h1>San Francisco Design Week 2016</h1><p>Gosh was this exhausting!</p></article>]]></description>
+            <link>https://thegrid.ai/tara/san-francisco-design-week-2016/index.html</link>
+            <guid isPermaLink="false">e4575e58-6312-4b69-8e96-2c9484af096a</guid>
+            <pubDate>Sat, 18 Jun 2016 23:43:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Color Palettes]]></title>
             <description><![CDATA[<article><h1>Color Palettes</h1><p>You know you're a designer when you can't stop screenshotting color palettes off the web, I guess.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5690000246d6195c5919b34ec915ad87/croprotate.png?cropheight=584&cropwidth=684&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e5fdfc5-a704-4968-a02a-02ba62e5e479.png&x=227&y=0"></article>]]></description>
-            <link>undefinedcolor-palettes/index.html</link>
+            <link>https://thegrid.ai/tara/color-palettes/index.html</link>
             <guid isPermaLink="false">2682bc64-c1ac-48b5-b21a-8f1dc30555ea</guid>
             <pubDate>Sat, 18 Jun 2016 23:30:36 GMT</pubDate>
         </item>
