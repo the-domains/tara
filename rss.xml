@@ -4,21 +4,21 @@
         <description><![CDATA[Tara Blogs]]></description>
         <link>https://thegrid.ai/tara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 23:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 23:53:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tara/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco Design Week 2016]]></title>
+            <description><![CDATA[<article><h1>San Francisco Design Week 2016</h1><p>Gosh was this exhausting!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bde1ae1-87b1-47f9-8c97-3abbeb9d890f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tara/san-francisco-design-week-2016/index.html</link>
+            <guid isPermaLink="false">e4575e58-6312-4b69-8e96-2c9484af096a</guid>
+            <pubDate>Sat, 18 Jun 2016 23:51:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Color Palettes]]></title>
             <description><![CDATA[<article><h1>Color Palettes</h1><p>You know you're a designer when you can't stop screenshotting color palettes off the web, I guess.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5690000246d6195c5919b34ec915ad87/croprotate.png?cropheight=584&cropwidth=684&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e5fdfc5-a704-4968-a02a-02ba62e5e479.png&x=227&y=0"></article>]]></description>
             <link>https://thegrid.ai/tara/color-palettes/index.html</link>
             <guid isPermaLink="false">2682bc64-c1ac-48b5-b21a-8f1dc30555ea</guid>
             <pubDate>Sat, 18 Jun 2016 23:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Francisco Design Week 2016]]></title>
-            <description><![CDATA[<article><h1>San Francisco Design Week 2016</h1><p>Gosh was this exhausting!</p></article>]]></description>
-            <link>https://thegrid.ai/tara/san-francisco-design-week-2016/index.html</link>
-            <guid isPermaLink="false">e4575e58-6312-4b69-8e96-2c9484af096a</guid>
-            <pubDate>Sat, 18 Jun 2016 23:43:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
