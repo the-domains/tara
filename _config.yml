@@ -1,6 +1,6 @@
-name: Tara
+name: Tara Parker-Essig
 favicon: null
-layout_spectrum: 0.5293603164609522
+layout_spectrum: 1
 typography_spectrum: 0.5607076520100236
 title: Tara Blogs Casually About Design
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5569563382305205
-  lightness: 0.8870458812452853
-  saturation: 0.46971277240663767
-  rhythmicContrast: 0.1388489392120391
+    - '#613c58'
+    - '#838689'
+    - '#e8e6a4'
+    - '#c5daaf'
+    - '#a2cdb9'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
